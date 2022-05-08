@@ -1,0 +1,2 @@
+# warehouses-structs
+The purpose of the assignment is to program a console application in C language to search for goods in the warehouse database. The program will filter and display the goods in stock according to the specified CMD switches. Search for warehouses and goods will be possible by name, price and GPS coordinates. The task of the application is to list search results in a formatted way. The purpose of the assignment is to practice working on a more complex project, which consists of several files, as well as mastering the work with structures.
